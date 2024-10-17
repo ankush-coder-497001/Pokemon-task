@@ -11,7 +11,7 @@ A responsive web application built with React.js that fetches data from the [Pok
 
 ## Demo
 
-[Live Demo](https://your-demo-url.com) (Replace with your deployed app URL)
+[Live Demo](https://pokemon-task-ankush.netlify.app/)
 
 ## Installation
 
